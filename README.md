@@ -8,5 +8,6 @@ A basic to-do app built with Flutter.
 - Search
 
 ## ScreenShot
-![Screenshot](https://github.com/nt044/ToDo-App/blob/main/ToDo%20ScreenShot.jpg)
+<img src="https://github.com/nt044/ToDo-App/blob/main/ToDo%20ScreenShot.jpg" alt="Screenshot" width="350" height="700">
 
+ToDo ScreenShot.jpg
