@@ -1,7 +1,7 @@
 # 💛 ToDo-App
 ##  Flutter ToDo App
 A basic to-do app built with Flutter. 
-#### 📌Functionalities that this app has
+#### 📌Functionalities this app has
 - Add
 - Update
 - Delete
